@@ -1,7 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,visualstudio,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,visualstudio,macos
-spacy_output/model-last
-texts/G06T.txt
+texts/
 trf_spacy_output/
 sci_spacy_output/
 old_spacy_output/

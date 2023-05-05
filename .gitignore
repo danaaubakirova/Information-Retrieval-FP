@@ -2,6 +2,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,visualstudio,macos
 spacy_output/model-last
 texts/G06T.txt
+trf_spacy_output/
+sci_spacy_output/
+old_spacy_output/
 ### macOS ###
 # General
 .DS_Store

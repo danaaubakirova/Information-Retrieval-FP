@@ -4,6 +4,7 @@ texts/
 trf_spacy_output/
 sci_spacy_output/
 old_spacy_output/
+spacy_data/
 ### macOS ###
 # General
 .DS_Store
